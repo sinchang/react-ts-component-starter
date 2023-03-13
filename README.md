@@ -1,35 +1,33 @@
-**💛 You can help the author become a full-time open-source maintainer by [sponsoring him on GitHub](https://github.com/sponsors/egoist).**
+# react-ts-component
 
----
-
-# my-ts-lib
-
-[![npm version](https://badgen.net/npm/v/my-ts-lib)](https://npm.im/my-ts-lib) [![npm downloads](https://badgen.net/npm/dm/my-ts-lib)](https://npm.im/my-ts-lib)
+[![npm version](https://badgen.net/npm/v/react-ts-component)](https://npm.im/react-ts-component) [![npm downloads](https://badgen.net/npm/dm/react-ts-component)](https://npm.im/react-ts-component)
 
 ## Using this template
 
-- Search `my-ts-lib` and replace it with your custom package name.
-- Search `egoist` and replace it with your name.
+- Search `react-ts-component` and replace it with your custom package name.
+- Search `sinchang` and replace it with your name.
 
 Features:
 
 - Package manager [pnpm](https://pnpm.js.org/), safe and fast
 - Release with [semantic-release](https://npm.im/semantic-release)
 - Bundle with [tsup](https://github.com/egoist/tsup)
-- Test with [vitest](https://vitest.dev)
+- Test with [vitest](https://vitest.dev) and [@testing-library/react](testing-library.com/react)
+- Demo with [Storybook](https://storybook.js.org/)
+- Lint with [@antfu/eslint-config](https://github.com/antfu/eslint-config)
 
 To skip CI (GitHub action), add `skip-ci` to commit message. To skip release, add `skip-release` to commit message.
 
 ## Install
 
 ```bash
-npm i my-ts-lib
+pnpm i react-ts-component
 ```
 
-## Sponsors
+## Credits
 
-[![sponsors](https://sponsors-images.egoist.dev/sponsors.svg)](https://github.com/sponsors/egoist)
+Template is based on [ts-lib-starter](https://github.com/egoist/ts-lib-starter)
 
 ## License
 
-MIT &copy; [EGOIST](https://github.com/sponsors/egoist)
+MIT &copy; [sinchang](https://github.com/sinchang)
