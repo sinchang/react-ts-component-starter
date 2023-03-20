@@ -54,7 +54,7 @@
     "@storybook/addon-links": "^7.0.0-rc.2",
     "@storybook/blocks": "^7.0.0-rc.2",
     "@storybook/react": "^7.0.0-rc.2",
-    "@storybook/react-vite": "7.0.0-rc.4",
+    "@storybook/react-vite": "7.0.0-rc.5",
     "@storybook/testing-library": "^0.0.14-next.1",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^14.0.0",
