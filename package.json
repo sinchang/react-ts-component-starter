@@ -1,5 +1,6 @@
 {
   "name": "react-ts-component",
+  "type": "module",
   "version": "0.0.0",
   "description": "My react typescript component library",
   "publishConfig": {
@@ -7,8 +8,8 @@
   },
   "license": "MIT",
   "exports": {
-    "require": "./dist/index.js",
-    "import": "./dist/index.mjs"
+    "import": "./dist/index.mjs",
+    "require": "./dist/index.js"
   },
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
