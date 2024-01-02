@@ -3,7 +3,12 @@ export interface ButtonProps {
 }
 
 export function Button({ text }: ButtonProps) {
-  return <button style={{
-    color: 'red',
-  }}>{text}</button>
+  return (
+    <button style={{
+      color: 'red',
+    }}
+    >
+      {text}
+    </button>
+  )
 }
